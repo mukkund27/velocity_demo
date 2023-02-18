@@ -13,7 +13,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: "hello,Mukund".text.white.size(25).center.make().p16().card.red500.make().centered(),
+        body: "hello,page 1".text.white.size(25).center.make().p16().card.red500.make().centered(),
       ),
     );
   }
